@@ -1,0 +1,7 @@
+---
+applications:
+ - name: shinma123
+   random-route: true
+   memory: 256M
+buildpacks:
+ - python_buildpack
